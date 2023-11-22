@@ -1,6 +1,4 @@
 # -Python-script-that-generates
-Certainly! Here's a Python script that generates a 10-digit random number:
-
 To create an executable file from this script, you can use a tool like PyInstaller. Here's how you can use PyInstaller to create an executable from the script:
 
 1 Install PyInstaller: pip install pyinstaller
